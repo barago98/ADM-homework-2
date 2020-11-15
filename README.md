@@ -4,9 +4,9 @@ The purpose of the homework was to perform an Exploratory Data Analysis of the c
 
 The repository consists of the file:
 
-'homework-2.ilpyb:'
+' homework-2.ilpyb: '
 
-A Jupyter notebook which provides the solutions to all research questions.
+> A Jupyter notebook which provides the solutions to all research questions.
 here's the main questions:
 1) [RQ1] A marketing funnel describes your customer’s journey with your e-commerce. It may involve different stages, beginning when someone learns about your business, when he/she visits your website for the first time, to the purchasing stage, marketing funnels map routes to conversion and beyond. Suppose your funnel involves just three simple steps: 1) view, 2) cart, 3) purchase. Which is the rate of complete funnels?
 
