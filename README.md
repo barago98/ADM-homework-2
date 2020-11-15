@@ -5,7 +5,7 @@ The purpose of the homework was to perform an Exploratory Data Analysis of the c
 
 The repository consists of the file:
 
-`< homework-2.ilpyb: >`
+`< homework 2.ipynb: >`
 
 > A Jupyter notebook which provides the solutions to all research questions.
 here's the main questions:
