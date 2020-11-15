@@ -1,6 +1,7 @@
 # Homework 2 - eCommerce analytics
 
 The purpose of the homework was to perform an Exploratory Data Analysis of the customer behavior in a eCommerce store and answer below-mentioned research questions on a data collected and found on Kaggle
+> you can find the datasets we used [here](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv)
 
 The repository consists of the file:
 
